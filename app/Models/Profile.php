@@ -9,6 +9,8 @@ class Profile extends Model
 {
     use HasFactory;
 
+    protected $guarded=['id'];
+
     // 1対1 リレーション　逆から
 
     public function user(){

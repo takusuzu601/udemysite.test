@@ -13,6 +13,11 @@
         <!-- Styles -->
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 
+        <!-- Tailwind CSS -->
+        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="{{asset('vendor/fontawesome-free/css/all.min.css')}}">
+
         @livewireStyles
 
         <!-- Scripts -->
@@ -42,5 +47,10 @@
         @stack('modals')
 
         @livewireScripts
+
+        @isset($js)
+           {{$js}}
+        @endisset
+
     </body>
 </html>

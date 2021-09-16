@@ -9,6 +9,8 @@ class Review extends Model
 {
     use HasFactory;
 
+    protected $guarded=['id'];
+    
     // 1対多リレーション　逆から
 
     public function user(){

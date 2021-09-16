@@ -1,2 +1,62 @@
 Xammp laravel 設定
 https://qiita.com/hitotch/items/4f5ef016cabe040fd2a2
+
+Git Hub
+https://github.com/coders-free/udemy
+
+生徒完了GIT
+https://github.com/crashon182/udemy-lms
+
+フリー画像
+https://pixabay.com/                                 ダミーアカウント　lonzo90@example.org　password/password
+
+画像圧縮
+https://tinypng.com/
+
+TailWind Starter Kit
+https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+
+AdminLte laravel-adminlte https://github.com/jeroennoten/Laravel-AdminLTE
+
+*シンボリックリンクはStorageフォルダー内にPublicフォルダーを作り Artisanコマンドでリンクを張ると上位PUBLICフォルダーにstorageフォルダーが作られる。
+
+section 3 laravel xammp 設定
+section 4-8 データーベースリレーション設定
+section 9 テストデータを挿入 SEEDER
+
+section 10 Admin Lte laravel
+section 11 jetstream set up
+
+TailWindCss Component サイト
+https://tailwindcomponents.com/
+
+
+section 16 リアルタイム詳細検索のロジックや作り方
+
+section 17 カスタムCSS TailWind
+
+section 18 レスポンシブリイアウト Tailwind css Grid レイアウト
+
+section 23 ページ送りのアーキテクト
+
+section 24 プログレスバー https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/css/progressbars
+
+section 26 ポリシーを設定
+
+section28 パーミッションの詳細設定の方法(アクセス権限) Laravel-permission  https://spatie.be/docs/laravel-permission/v4/introduction
+
+session30 adminlte カスタム レイアウトやページネーションのカスタム
+
+session40 layoutにもmodelを持たせる方法 php artisan make:component InstructorLayout
+
+
+section49 インストラクターのポリシーについてと実装 livewireを通す場合はControllerの最初にAuthorizesRequestsを宣言する事。
+
+section53 ダミーメールサーバー mailtrapの使い方
+
+section54 非同期メールの送信方法 queue使い方
+
+section55 ckeditor使い方と設置方法
+
+section62 paypal api 連動 説明 PAY-PAL-SDK PHPの使用 https://github.com/paypal/PayPal-PHP-SDK
+
